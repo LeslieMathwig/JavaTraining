@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.kavinschool.advanced.ParameterizedParameterExample&apos; to &apos;DataPointsAndTheoriesExample&apos;&#x0A;- Original project: &apos;KavinSchoolJunitExamples&apos;&#x0A;- Original element: &apos;com.kavinschool.advanced.ParameterizedParameterExample&apos;&#x0A;- Renamed element: &apos;com.kavinschool.advanced.DataPointsAndTheoriesExample&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ParameterizedParameterExample&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.kavinschool.advanced{ParameterizedParameterExample.java[ParameterizedParameterExample" matchStrategy="1" name="DataPointsAndTheoriesExample" qualified="false" references="true" similarDeclarations="false" stamp="1556077633953" textual="false" version="1.0"/>
+</session>

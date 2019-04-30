@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.junit.experimental.theories.DataPoint"/>
+<fullyQualifiedTypeName name="org.junit.experimental.theories.Theory"/>
+<fullyQualifiedTypeName name="org.junit.runners.Parameterized"/>
+<fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/kpassoubady/JunitExamples/.metadata/.plugins/org.eclipse.jdt.core
+3209016880.index
+3241310413.index

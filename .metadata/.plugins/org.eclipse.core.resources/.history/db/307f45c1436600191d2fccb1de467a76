@@ -1,0 +1,25 @@
+package com.kavinschool.advanced;
+
+import static org.junit.Assert.*;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+public class ParameterizedParameterExample {
+
+	@Parameters
+	public static Collection<Object[]> UserInfo() {
+		return Arrays.asList(new Object[][] { 
+				{ "Student1", "Student1@Kavin~School" },
+				{ "Student2", "Student2@Kavin~School" }, 
+				{ "Student3", "Student3@Kavin~School" } });
+	}
+
+	public ParametersZenPhotoLoginTest(String strUserID, String strPassword) {
+		super();
+		this.strUserID = strUserID;
+		this.strPassword = strPassword;
+	}
+
+}
